@@ -60,22 +60,7 @@ I am a IT-specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-<!--
-**Brokenpxl/Brokenpxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :writing_hand: PET Projects :
+---
+Обнаружение фальшивых новостей.
+Создал модель для классификации новостей на достоверные и фальшивые. <a href ="https://github.com/Brokenpxl/fake_news"> <strong>Ссылка на проект</strong></a>
