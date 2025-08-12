@@ -64,3 +64,10 @@ I am a IT-specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 Обнаружение фальшивых новостей.
 Создал модель для классификации новостей на достоверные и фальшивые. <a href ="https://github.com/Brokenpxl/fake_news"> <strong>Ссылка на проект</strong></a>
+
+---
+Определение Болезни Паркинсона с Использованием Машинного Обучения.
+Реализовал модель машинного обучения для определения болезни Паркинсона. <a href ="https://github.com/Brokenpxl/Parkinsons_Disease"> <strong>Ссылка на проект</strong></a>
+
+---
+Сделал нейро - сотрудника. <a href ="https://github.com/Brokenpxl/neuro_staff_yagpt"> <strong>Ссылка на проект</strong></a>
