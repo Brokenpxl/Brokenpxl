@@ -1,35 +1,15 @@
 
 ### :man_technologist: About Me :
-I am a IT-specialist from Russia.
+Hello! 
+My name is Artem Isaev.
 
-- :telescope: I’m working as a IT-specialist and Setting up a web server.
+i am work a support ingeener application software. Until recently I started to be interested in AI. Now I strive to actively develop in this direction.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I read technical articles, snowboard and play computer games
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-isaev-77256982/)
-
----
-
-<div id="header" align="center">
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/artem-isaev-77256982/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+How to reach me: 
+Telegram <a href="https://t.me/BrokenPxl" rel="nofollow">@BrokenPxl</a>
+<a href="https://www.linkedin.com/in/artem-isaev-77256982/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/7c2145551dc29c09205720b1acea43652035cc0f1eb46278acc400f1c1fc59a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://www.instagram.com/isaev_temka/">
-  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/ArtmIsaev3">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=BrokenPxl&style=flat-square&color=blue" alt="" align="center"/>
-<h1 align="center">
-  hey there
-</h1>
-</div>
 
 ---
 
