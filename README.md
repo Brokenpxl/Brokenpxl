@@ -39,10 +39,13 @@ Linkedin <a href="https://www.linkedin.com/in/artem-isaev-77256982/" rel="nofoll
 ---
 Обнаружение фальшивых новостей.
 Создал модель для классификации новостей на достоверные и фальшивые. <a href ="https://github.com/Brokenpxl/fake_news"> <strong>Ссылка на проект</strong></a>
+### Стек: numpy, pandas, matplotlib, seaborn, scikit-learn
 
 ---
 Определение Болезни Паркинсона с Использованием Машинного Обучения.
 Реализовал модель машинного обучения для определения болезни Паркинсона. <a href ="https://github.com/Brokenpxl/Parkinsons_Disease"> <strong>Ссылка на проект</strong></a>
+### Стек: Python, pandas, numpy, scikit-learn, XGBoost
 
 ---
 Сделал нейро - сотрудника. <a href ="https://github.com/Brokenpxl/neuro_staff_yagpt"> <strong>Ссылка на проект</strong></a>
+### Стек: Python, Llama
