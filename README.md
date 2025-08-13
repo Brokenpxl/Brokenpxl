@@ -1,6 +1,18 @@
 
+### :man_technologist: About Me :
+I am a IT-specialist from Russia.
+
+- :telescope: I’m working as a IT-specialist and Setting up a web server.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read technical articles, snowboard and play computer games
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-isaev-77256982/)
+
+---
+
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU2NDE2cTF4N3B5NDVibDY5Y29zejRudmEwZXllZXlwMHltcWQwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="100"/>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/artem-isaev-77256982/">
@@ -16,25 +28,8 @@
 <img src="https://komarev.com/ghpvc/?username=BrokenPxl&style=flat-square&color=blue" alt="" align="center"/>
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :man_technologist: About Me :
-I am a IT-specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
-- :telescope: I’m working as a IT-specialist and Setting up a web server.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I read technical articles, snowboard and play computer games
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-isaev-77256982/)
 
 ---
 
