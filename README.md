@@ -1,5 +1,5 @@
 
-### :man_technologist: About Me :
+### About Me :
 Hello! 
 My name is Artem Isaev.
 
@@ -13,7 +13,7 @@ Telegram <a href="https://t.me/BrokenPxl" rel="nofollow">@BrokenPxl</a><br>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :  
+### Languages and Tools :  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -29,13 +29,13 @@ Telegram <a href="https://t.me/BrokenPxl" rel="nofollow">@BrokenPxl</a><br>
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrokenPxl&theme=tokyonight&border_radius=4.7)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrokenPxl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :writing_hand: PET Projects :
+### PET Projects :
 ---
 Обнаружение фальшивых новостей.
 Создал модель для классификации новостей на достоверные и фальшивые. <a href ="https://github.com/Brokenpxl/fake_news"> <strong>Ссылка на проект</strong></a>
